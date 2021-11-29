@@ -1,0 +1,18 @@
+.orange-color{
+    color: orange;
+}
+
+.link-buttom{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+section{
+    display: flex;
+}
+
+footer{
+    text-align: center;
+}
